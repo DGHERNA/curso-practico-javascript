@@ -91,7 +91,7 @@ dist
 # vuepress build output
 .vuepress/dist
 
-# Serverless directories
+# Serverless directories 
 .serverless/
 
 # FuseBox cache
@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Configuración Visual Studio Code
+.vscode
